@@ -1,5 +1,6 @@
 # Deploy Strapi on Clever Cloud
 
+
 This project is a Strapi application already configured to be deployed on [Clever Cloud](https://www.clever-cloud.com) and use use object storage with [Cellar](https://developers.clever-cloud.com/doc/addons/cellar/). It's a full configuration demo to complete [this great article from Pierre Guézennec](https://www.camino.dev/blog/deployer-cms-strapi-clever-cloud)
 
 ## 🚀 Getting started with Strapi
